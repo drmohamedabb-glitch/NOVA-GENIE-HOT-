@@ -1,0 +1,5 @@
+{
+  "name": "FormGenie & NanoEditor",
+  "description": "A powerful form builder application featuring 'Nano Banana' powered AI image editing capabilities using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
